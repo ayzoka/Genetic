@@ -1,0 +1,48 @@
+iteration: 1
+result: 1
+   -3.7996   -0.2103    1.0000
+
+iteration: 2
+result: 1
+   -2.2087   -0.8575    1.0000
+
+iteration: 3
+result: 0.99998
+    0.5121   -0.3334    1.0000
+
+iteration: 4
+result: 0.99999
+   -3.2972   -1.1077    1.0000
+
+iteration: 5
+result: 0.99999
+    1.5672   -0.0027    1.0000
+
+iteration: 6
+result: 0.99998
+   -0.7327   -0.0454    1.0000
+
+iteration: 7
+result: 0.99999
+   -1.7394   -0.3300    1.0000
+
+iteration: 8
+result: 1
+    0.6952   -0.6802    1.0000
+
+iteration: 9
+result: 1
+   -0.8609   -1.0338    1.0000
+
+iteration: 10
+result: 0.99999
+    1.0514   -1.1358    1.0000
+
+Crossover array: 
+     1     1     3     4     2     2     3     3     4     1     1
+
+average result: 0.99999
+minimum result: 0.99998
+maximum result: 1
+running time: 86.5622
+>> 
